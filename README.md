@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Open Source Projects
 - 💬 Ask me about App Development
-- 📫 How to reach me: https://www.linkedin.com/in/arsalan-rashid-khan-b8a90b210/
+<!-- - 📫 How to reach me: https://www.linkedin.com/in/arsalan-rashid-khan-b8a90b210/ -->
 
 ## Languages and Tools:
